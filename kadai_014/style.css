@@ -1,0 +1,24 @@
+html {
+  font-size: 20px;
+}
+
+body {
+  font-family: "Arial","Meiryo",sans-serif;
+  text-align: center;
+}
+.google-fonts {
+    font-family: "Josefin Sans", sans-serif;
+    text-shadow: 4px 4px 2px lightgrey;
+    font-size: 2rem;
+    letter-spacing: 1.2em;
+    border-bottom: solid 3px rgb(115,115,114);
+  }
+.font_test1 {
+    color: skyblue;
+}
+.font_test2 {
+    color: rgb(255,192,203)
+}
+#basic {
+   font-weight: bold;
+}
